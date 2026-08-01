@@ -23,8 +23,6 @@
 - ⚡ C++
 - 🌐 JavaScript
 - 🗄️ SQL
-- 📝 HTML5
-- 🎨 CSS3
 
 ### Cybersecurity
 - Web Penetration Testing
