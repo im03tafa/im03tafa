@@ -107,7 +107,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=m0seeyou&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=im03tafa&theme=tokyonight"/>
 
 </p>
 
@@ -117,7 +117,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=m0seeyou&theme=tokyonight&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=im03tafa&theme=tokyonight&margin-w=15"/>
 
 </p>
 
@@ -127,7 +127,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m0seeyou&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=im03tafa&theme=tokyo-night"/>
 
 </p>
 
