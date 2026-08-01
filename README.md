@@ -108,9 +108,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=m0seeyou&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=im03tafa&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0seeyou&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im03tafa&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -126,7 +126,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=m0seeyou&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=im03tafa&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -134,7 +134,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m0seeyou&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=im03tafa&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -174,7 +174,7 @@
 
 > **"Learn • Build • Secure"**
 
-<img src="https://komarev.com/ghpvc/?username=m0seeyou&style=for-the-badge&color=22c55e"/>
+<img src="https://komarev.com/ghpvc/?username=im03tafa&style=for-the-badge&color=22c55e"/>
 
 ⭐ Thanks for visiting my profile!
 
