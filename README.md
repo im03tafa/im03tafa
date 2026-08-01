@@ -151,7 +151,7 @@
 
 <p>
 
-<a href="https://github.com/m0seeyou">
+<a href="https://github.com/im03tafa">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
