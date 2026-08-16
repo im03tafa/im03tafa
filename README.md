@@ -181,7 +181,7 @@ Linux administration, networking, command-line and security notes.
 
 </div>
 
-> Replace `YOUR_REPO_1` and `YOUR_REPO_2` with your real repository names.
+> Replace `https://github.com/im03tafa/` 
 
 ---
 
@@ -222,7 +222,7 @@ Linux administration, networking, command-line and security notes.
 ---
 
 ## 🗺️ Learning Roadmap
-
+<div align="center">
 ```text
                     ┌─────────────────────┐
                     │   WEB SECURITY      │
@@ -245,7 +245,7 @@ Linux administration, networking, command-line and security notes.
 ```
 
 ---
-
+</div>
 ## 🎯 2026 Goals
 
 ```text
@@ -269,7 +269,7 @@ Linux administration, networking, command-line and security notes.
   <img src="https://img.shields.io/badge/GitHub-IM03TAFA-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mosiwmhk@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
