@@ -451,7 +451,7 @@ Linux administration, networking, command-line and security notes.
 
 </div>
 
-> Replace `https://github.com/im03tafa/` 
+> 
 
 ---
 
@@ -492,7 +492,7 @@ Linux administration, networking, command-line and security notes.
 ---
 
 ## 🗺️ Learning Roadmap
-<div align="center">
+
 ```text
                     ┌─────────────────────┐
                     │   WEB SECURITY      │
@@ -515,7 +515,6 @@ Linux administration, networking, command-line and security notes.
 ```
 
 ---
-</div>
 ## 🎯 2026 Goals
 
 ```text
